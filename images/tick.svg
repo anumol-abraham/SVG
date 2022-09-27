@@ -1,32 +1,7 @@
-<!DOCTYPE html>
-<!-- saved from url=(0056)file:///D:/IT-Tech%20for%20women/Projects/SVG/index.html -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SVG images</title>
-</head>
 
-<body>
-    <section>
-        <div>
-            <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="www.w3.org/2000/svg">
-                <circle cx="110" cy="110" r="100" stroke="aqua" stroke-width="20" fill="white"></circle>
-                <polyline points="70,120 100,165 150,80 " stroke="aqua" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"></polyline>
-            </svg>
-            <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="www.w3.org/2000/svg">
-                <circle cx="110" cy="110" r="100" stroke="red" stroke-width="20" fill="red"></circle>
-                <line x1="70" y1="70" x2="150" y2="150" style="stroke:white;stroke-width:10"></line>
-                <line x1="70" y1="150" x2="150" y2="70" style="stroke:white;stroke-width:10"></line>
-            </svg>
-            <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="www.w3.org/2000/svg">
-                <rect x="20" y="20" rx="10" ry="10" width="200" height="180" style="fill:white;stroke:black;stroke-width:15;"></rect>
-                <polyline points="22,22 120,100 220,20" stroke="black" stroke-width="15" stroke-linejoin="round"></polyline>
-            </svg>
-        </div>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="www.w3.org/2000/svg">
+    <section id="tick-mark">
+        <circle cx="110" cy="110" r="100" stroke="aqua" stroke-width="20" fill="white"></circle>
+        <polyline points="70,120 100,165 150,80 " stroke="aqua" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"></polyline>
     </section>
-
-    </div>
-
-
-</body></html>
+</svg>  
